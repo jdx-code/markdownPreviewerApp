@@ -5,5 +5,6 @@
 .footer {
     margin-top: 5px;
     background-color: azure;
-    color: rgb(44, 44, 44)
+    color: rgb(44, 44, 44);
+    padding: 15px;
 }
