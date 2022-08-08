@@ -1,0 +1,29 @@
+body {
+    background-color: #781851;
+    color: #fff;
+}
+
+.header{
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+#editor {
+    background: #333;
+    padding-top: 1em;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font: 1.3rem Inconsolata, monospace;
+    border: 2px solid blue;
+    height: 550px;
+}
+
+#preview {
+    height: 550px;
+}
+
+#preview a{
+    color: orange
+}
+
